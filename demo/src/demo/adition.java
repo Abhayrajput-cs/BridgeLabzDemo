@@ -5,5 +5,6 @@ public class adition {
 	
  
 	System.out.print("Hello there");
+	System.out.print(:"I am mehak");
 }
 }
