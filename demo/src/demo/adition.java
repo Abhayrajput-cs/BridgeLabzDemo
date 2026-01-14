@@ -5,5 +5,7 @@ public class adition {
 	
  
 	System.out.print("Hello there");
+	System.out.print("Hello therei m abhay");
+
 }
 }
